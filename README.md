@@ -33,7 +33,7 @@
 - **ОС:** Windows 10 / 11 (x64)
 - **Свободное место:** не менее 16 ГБ (после распаковки ~13.2 ГБ)
 - **Установленный .NET Desktop Runtime 10.0**  
-  [Скачать с официального сайта Microsoft](https://dotnet.microsoft.com/ru-ru/download/dotnet/thank-you/runtime-aspnetcore-10.0.5-windows-x64-installer)  
+  [Скачать с официального сайта Microsoft](https://dotnet.microsoft.com/ru-ru/download/dotnet/thank-you/runtime-aspnetcore-10.0.5-windows-x64-installer](https://dotnet.microsoft.com/ru-ru/download/dotnet/thank-you/runtime-desktop-10.0.5-windows-x64-installer)  
 
 ## 🚀 Как пользоваться
 

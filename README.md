@@ -84,3 +84,11 @@
 Полная автономность — интернет не нужен.
 
 Приятного использования! 📚
+
+## Скриншоты приложения
+
+![Скриншот 1](https://raw.githubusercontent.com/no4ni/RuWikipedia/main/screen1.png)
+
+![Скриншот 2](https://raw.githubusercontent.com/no4ni/RuWikipedia/main/screen2.png)
+
+![Скриншот 3](https://raw.githubusercontent.com/no4ni/RuWikipedia/main/screen3.png)

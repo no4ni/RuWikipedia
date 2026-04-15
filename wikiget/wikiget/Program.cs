@@ -151,6 +151,7 @@ namespace wikiget
         {
             try
             {
+                Console.WriteLine(path);  // ← добавили
                 string content = File.ReadAllText(path, Encoding.UTF8);
                 Console.WriteLine(content);
                 return 0;
@@ -166,6 +167,7 @@ namespace wikiget
         {
             try
             {
+                Console.WriteLine(path);  // ← добавили
                 var selected = new List<string>();
                 var random = new Random();
 
